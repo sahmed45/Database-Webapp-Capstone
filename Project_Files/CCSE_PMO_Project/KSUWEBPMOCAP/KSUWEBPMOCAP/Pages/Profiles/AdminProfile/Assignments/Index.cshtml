@@ -1,0 +1,101 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.Profiles.AdminProfile.Assignments.IndexModel
+
+@{
+    Layout = "/Pages/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "Index";
+}
+
+<h1>Assignments</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Filter Search:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" /> |
+            <a asp-page="./Index">Back to full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.ProjectNumSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Assignments[0].Project_Num)
+                </a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assignments[0].Net_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assignments[0].Student_Net_ID)
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.FacultyLastNameSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Assignments[0].Faculty_LastName)
+                </a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.FacultyLastNameSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Assignments[0].Student_LastName)
+                </a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Assignments)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Project_Num)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Net_ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student_Net_ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Faculty_LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Student_LastName)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Assign_ID">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Assign_ID">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Assign_ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.Assignments.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.Assignments.HasNextPage ? "disabled" : "";
+}
+
+
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Assignments.PageIndex - 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Assignments.PageIndex + 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>

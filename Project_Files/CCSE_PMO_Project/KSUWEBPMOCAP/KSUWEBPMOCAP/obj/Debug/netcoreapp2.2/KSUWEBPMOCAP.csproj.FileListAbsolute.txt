@@ -1,0 +1,802 @@
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csprojAssemblyReference.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\frKin\Desktop\C#Projects\KSUWEBPMOCAP\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Assignments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Departments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Faculties\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\PDFFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Projects\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Proposals\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\RegUsers\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Sponsors\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\TblFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyHome.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentPortal.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyRegister.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\test.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\test.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout3.cshtml.g.cs
+C:\Users\Admin\Desktop\Project Drafting\KSUWEBPMOCAP Copy\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csprojAssemblyReference.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csprojAssemblyReference.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyPortal.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyRegister.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\test.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\test.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Register.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout3.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorPortal.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorRegister.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentPortal.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentRegister.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\PMO\Desktop\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.deps.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.runtimeconfig.dev.json
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.dll
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\bin\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CoreCompileInputs.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfoInputs.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.AssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.input.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.TagHelpers.output.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorCoreGenerate.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyPortal.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\FacultyRegister.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Assignments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Departments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Faculties\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Projects\test.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Proposals\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\Students\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Assignments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Departments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Faculties\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Projects\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Proposals\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\Students\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\UserProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Assignments\test.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Departments\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Faculties\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\PDFFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Projects\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Proposals\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Sponsors\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\Students\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\ViewerProfile\TblFiles\Index.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Register.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout3.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorPortal.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\SponsorRegister.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentPortal.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\StudentRegister.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.RazorTargetAssemblyInfo.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.Views.pdb
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.dll
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.pdb
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.genruntimeconfig.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csproj.CopyComplete
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\KSUWEBPMOCAP.csprojAssemblyReference.cache
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\ProjectReportView\Create.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\ProjectReportView\Delete.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\ProjectReportView\Details.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\ProjectReportView\Edit.cshtml.g.cs
+C:\Users\frKin\Desktop\C#Projects\PORTAL&GUI\PORTAL&GUI\KSUWEBPMOCAP\KSUWEBPMOCAP\obj\Debug\netcoreapp2.2\Razor\Pages\Profiles\AdminProfile\ProjectReportView\Index.cshtml.g.cs

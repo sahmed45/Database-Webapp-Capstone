@@ -1,0 +1,100 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.Profiles.AdminProfile.Proposals.IndexModel
+
+@{
+    Layout = "/Pages/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "Index";
+}
+
+<h1>Proposal</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Filter Search:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" /> |
+            <a asp-page="./Index">Back to full List</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Proposal[0].Sponsor_ID)
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.SponsorNameSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Proposal[0].Sponsor_Name)</a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.TypeSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Proposal[0].Project_Type)</a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.ProjectNumSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Proposal[0].Project_Num)</a>
+</th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.DeptNameSort"
+                   asp-route-currentFilter="@Model.CurrentFilter">
+                    @Html.DisplayNameFor(model => model.Proposal[0].Dept_Name)</a>
+</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Proposals)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sponsor_ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sponsor_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Project_Type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Project_Num)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dept_Name)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Propasal_ID">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Propasal_ID">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Propasal_ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.Proposals.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.Proposals.HasNextPage ? "disabled" : "";
+}
+
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Proposals.PageIndex - 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Proposals.PageIndex + 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>
+

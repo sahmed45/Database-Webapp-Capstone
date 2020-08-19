@@ -1,0 +1,22 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.RegisterModel
+@{
+    Layout = "/Pages/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "Register";
+}
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Register</title>
+    </head>
+    <body>
+        <h1>Registration</h1>
+        <form method="post" asp-page="Register">
+            <input type="submit" value="Faculty" asp-page-handler="Adminreg" /><br /><br />
+            <input type="submit" value="Student" asp-page-handler="Userreg" /><br /><br />
+            <input type="submit" value="Sponser" asp-page-handler="Viewerreg" />
+        </form>
+    </body>
+    </html>
+

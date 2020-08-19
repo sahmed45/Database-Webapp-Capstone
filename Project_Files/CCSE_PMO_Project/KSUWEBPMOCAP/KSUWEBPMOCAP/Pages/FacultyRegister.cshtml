@@ -1,0 +1,53 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.FacultyRegisterModel
+@{
+    Layout = "/Pages/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "FacultyRegister";
+}
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Faculty Registration</title>
+    </head>
+    <body>
+        <h3>Register</h3>
+        <form method="post" asp-page="facultyregister">
+            <table>
+                <tr>
+                    <td>Net ID</td>
+                    <td>
+                        <input asp-for="@Model.account.Net_Id" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td>
+                        <input type="password" asp-for="@Model.account.Faculty_Password" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Full Name</td>
+                    <td>
+                        <input asp-for="@Model.account.Faculty_Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="email" asp-for="@Model.account.Faculty_Email" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>
+                        <input type="submit" value="Save" />
+                        <br />
+                        <a asp-page="Index">Sign In</a>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+    </html>
+

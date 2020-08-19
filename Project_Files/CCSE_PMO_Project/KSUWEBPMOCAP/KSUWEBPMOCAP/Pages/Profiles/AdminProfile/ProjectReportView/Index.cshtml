@@ -1,0 +1,96 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.ProjectReport.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Report Review</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Filter By Project Num:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" /> |
+            <a asp-page="./Index">Back to full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.ProjectNumSort">
+                    @Html.DisplayNameFor(model => model.Projects[0].Project_Num)
+                </a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.ProjectTypeSort">
+                    @Html.DisplayNameFor(model => model.Projects[0].Proj_Type)
+                </a>
+            </th>
+
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.ProjectDescription">
+                    @Html.DisplayNameFor(model => model.Projects[0].Project_Description)
+                </a>
+            </th>
+
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.StartDateSort">
+                @Html.DisplayNameFor(model => model.Projects[0].StartDate)</a>
+            </th>
+
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.SponsorSort">
+                    @Html.DisplayNameFor(model => model.Projects[0].Sponsor_Name)
+                </a>
+            </th>
+                 <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.FacultyLastName">
+                    @Html.DisplayNameFor(model => model.Projects[0].Faculty_LastName)</a>
+            </th>
+           
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Projects) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Project_Num)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proj_Type)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Project_Description)
+            </td>
+            
+             
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Sponsor_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Faculty_LastName)
+            </td>
+            
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Project_ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Project_ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Project_ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

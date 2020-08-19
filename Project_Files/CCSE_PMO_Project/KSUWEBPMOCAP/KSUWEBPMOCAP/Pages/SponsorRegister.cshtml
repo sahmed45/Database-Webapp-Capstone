@@ -1,0 +1,77 @@
+﻿@page
+@model KSUWEBPMOCAP.Pages.SponsorRegisterModel
+@{
+    Layout = "/Pages/Shared/_Layout1.cshtml";
+    ViewData["Title"] = "SponsorRegister";
+}
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Sponsor Registration</title>
+    </head>
+    <body>
+        <h3>Sign Up</h3>
+        <form method="post" asp-page="sponsorregister">
+            <table>
+                <tr>
+                    <td>Sponsor ID</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_ID" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td>
+                        <input type="password" asp-for="@Model.account.Sponsor_Password" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Full Name</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="email" asp-for="@Model.account.Sponsor_Email" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Phone</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_Phone" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Organization</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_Org" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_Address" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Website</td>
+                    <td>
+                        <input asp-for="@Model.account.Sponsor_Website" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>
+                        <input type="submit" value="Save" />
+                        <br />
+                        <a asp-page="Index">Sign In</a>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+    </html>
+
